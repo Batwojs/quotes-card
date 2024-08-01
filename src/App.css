@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.languageChangeSection {
+ color: gray;
+}
+
+.quoteSection{
+  margin-top: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  padding: 25px;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+
+.choiceSection{
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 20px;
+}
+
+.multipleChoiceSection {
+  margin-top: 20px;
+}
+
+select {
+  padding: 7px;
+  border-radius: 10px;
+}
+
+.randomButtonSection {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
