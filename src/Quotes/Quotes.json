@@ -1,0 +1,57 @@
+{
+    "quotesEn": [
+      {
+        "id": 1,
+        "author": "Albert Einstein",
+        "text": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+      },
+      {
+        "id": 2,
+        "author": "Mahatma Gandhi",
+        "text": "Be the change that you wish to see in the world."
+      },
+      {
+        "id": 3,
+        "author": "Friedrich Nietzsche",
+        "text": "Without music, life would be a mistake."
+      },
+      {
+        "id": 4,
+        "author": "Elie Wiesel",
+        "text": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference."
+      },
+      {
+        "id": 5,
+        "author": "Nicolas Chamfort",
+        "text": "A day without laughter is a day wasted."
+      }
+    ],
+    "quotesTr": [
+      {
+        "id": 1,
+        "author": "Albert Einstein",
+        "text": "İki şey sonsuzdur: evren ve insan aptallığı; ve ben evren konusunda emin değilim."
+      },
+      {
+        "id": 2,
+        "author": "Mahatma Gandhi",
+        "text": "Dünyada görmek istediğiniz değişimin kendisi olun."
+      },
+      {
+        "id": 3,
+        "author": "Friedrich Nietzsche",
+        "text": "Müzik olmadan hayat bir hata olurdu."
+      },
+      {
+        "id": 4,
+        "author": "Elie Wiesel",
+        "text": "Sevginin karşıtı nefret değil, kayıtsızlıktır. Sanatın zıttı çirkinlik değil, kayıtsızlıktır. İnancın karşıtı sapkınlık değil, kayıtsızlıktır. Ve yaşamın karşıtı ölüm değil, kayıtsızlıktır."
+      },
+      {
+        "id": 5,
+        "author": "Nicolas Chamfort",
+        "text": "Kahkahasız bir gün boşa geçmiş bir gündür."
+      }
+    ]
+  }
+  

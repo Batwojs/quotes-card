@@ -1,0 +1,58 @@
+#root {
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.languageChangeSection {
+ color: gray;
+}
+
+.quoteSection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.quote{
+  margin-top: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: 600px; ;
+  padding: 85px;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+
+.choiceSection{
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 20px;
+}
+
+.multipleChoiceSection {
+  margin-top: 20px;
+}
+
+select {
+  padding: 7px;
+  border-radius: 10px;
+}
+
+.randomButtonSection {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 455px) {
+  .quoteSection div {
+    font-size: 15px;
+  }
+  .randomButtonSection {
+    padding: 30px;
+  }
+}
