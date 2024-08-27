@@ -10,3 +10,5 @@ Ek olarak böyle bir blog yazısı buldum; gayyet anlaşılır ve basit şekilde
 
 
 FAKE API'ı ayağa kaldırmak için kodların bulunduğu dizine terminalle girip "npx json-server --watch src/Quotes/Quotes.json" yazmanız yeterli.
+
+Yaptığım projenin netlify sayfası; https://main--quotes-card.netlify.app
